@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\bin\Debug\netcoreapp3.1\ShoppingListLabAO.exe
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\bin\Debug\netcoreapp3.1\ShoppingListLabAO.deps.json
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\bin\Debug\netcoreapp3.1\ShoppingListLabAO.runtimeconfig.json
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\bin\Debug\netcoreapp3.1\ShoppingListLabAO.runtimeconfig.dev.json
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\bin\Debug\netcoreapp3.1\ShoppingListLabAO.dll
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\bin\Debug\netcoreapp3.1\ShoppingListLabAO.pdb
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.AssemblyInfo.cs
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.dll
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.pdb
+C:\Users\12482\source\repos\ShoppingListLabAO\ShoppingListLabAO\obj\Debug\netcoreapp3.1\ShoppingListLabAO.genruntimeconfig.cache
